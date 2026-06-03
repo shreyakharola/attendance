@@ -1,0 +1,72 @@
+[
+  {
+    "employeeCode": "EMP001",
+    "employeeName": "John Smith",
+    "checkInTime": "2026-06-03T09:02:00",
+    "checkOutTime": "2026-06-03T18:05:00",
+    "status": "Present"
+  },
+  {
+    "employeeCode": "EMP002",
+    "employeeName": "Sarah Jones",
+    "checkInTime": "2026-06-03T09:15:00",
+    "checkOutTime": null,
+    "status": "Present"
+  },
+    {
+    "employeeCode": "EMP001",
+    "employeeName": "Shreya Smith",
+    "checkInTime": "2026-06-03T09:02:00",
+    "checkOutTime": "2026-06-03T18:05:00",
+    "status": "Absent"
+  },
+  {
+    "employeeCode": "EMP002",
+    "employeeName": "John Jones",
+    "checkInTime": "2026-06-04T10:15:00",
+    "checkOutTime": null,
+    "status": "Absent"
+  },
+    {
+    "employeeCode": "EMP001",
+    "employeeName": "Gold Smith",
+    "checkInTime": "2026-06-03T09:02:00",
+    "checkOutTime": "2026-06-03T18:10:00",
+    "status": "Present"
+  },
+  {
+    "employeeCode": "EMP002",
+    "employeeName": "Nick Jones",
+    "checkInTime": "2026-05-021T13:15:00",
+    "checkOutTime": null,
+    "status": "Present"
+  },
+    {
+    "employeeCode": "EMP001",
+    "employeeName": "James Smith",
+    "checkInTime": "2026-06-03T09:02:00",
+    "checkOutTime": "2026-03-03T20:05:00",
+    "status": "PresAbsent"
+  },
+  {
+    "employeeCode": "EMP002",
+    "employeeName": "Sarah Khan",
+    "checkInTime": "2026-06-03T09:15:00",
+    "checkOutTime": null,
+    "status": "Present"
+  },
+    {
+    "employeeCode": "EMP001",
+    "employeeName": "Visvas Kumar",
+    "checkInTime": "2026-06-03T09:02:00",
+    "checkOutTime": "2026-06-03T18:05:00",
+    "status": "Present"
+  },
+  {
+    "employeeCode": "EMP002",
+    "employeeName": "Jonny Mathew",
+    "checkInTime": "2026-05-23T014:15:00",
+    "checkOutTime": null,
+    "status": "Absent"
+  }
+]
