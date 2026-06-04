@@ -1,3 +1,4 @@
+"posts":[
   {
     "employeeCode": "EMP001",
     "employeeName": "John Smith",
@@ -33,3 +34,4 @@
     "checkOutTime": "2026-06-03T18:10:00",
     "status": "Present"
   }
+]
