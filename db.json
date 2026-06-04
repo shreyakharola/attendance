@@ -33,40 +33,5 @@
     "checkInTime": "2026-06-03T09:02:00",
     "checkOutTime": "2026-06-03T18:10:00",
     "status": "Present"
-  },
-  {
-    "employeeCode": "EMP006",
-    "employeeName": "Nick Jones",
-    "checkInTime": "2026-05-021T13:15:00",
-    "checkOutTime": null,
-    "status": "Present"
-  },
-  {
-    "employeeCode": "EMP007",
-    "employeeName": "Nick nicolas",
-    "checkInTime": "2026-05-021T13:15:00",
-    "checkOutTime": null,
-    "status": "Present"
-  },
-  {
-    "employeeCode": "EMP008",
-    "employeeName": "Sarah Khan",
-    "checkInTime": "2026-06-03T09:15:00",
-    "checkOutTime": null,
-    "status": "Present"
-  },
-    {
-    "employeeCode": "EMP009",
-    "employeeName": "Visvas Kumar",
-    "checkInTime": "2026-06-03T09:02:00",
-    "checkOutTime": "2026-06-03T18:05:00",
-    "status": "Present"
-  },
-  {
-    "employeeCode": "EMP0010",
-    "employeeName": "Jonny Mathew",
-    "checkInTime": "2026-05-23T014:15:00",
-    "checkOutTime": null,
-    "status": "Absent"
   }
 ]
