@@ -14,56 +14,55 @@
     "status": "Present"
   },
     {
-    "employeeCode": "EMP001",
+    "employeeCode": "EMP003",
     "employeeName": "Shreya Smith",
     "checkInTime": "2026-06-03T09:02:00",
     "checkOutTime": "2026-06-03T18:05:00",
     "status": "Absent"
   },
   {
-    "employeeCode": "EMP002",
+    "employeeCode": "EMP004",
     "employeeName": "John Jones",
     "checkInTime": "2026-06-04T10:15:00",
     "checkOutTime": null,
     "status": "Absent"
   },
     {
-    "employeeCode": "EMP001",
+    "employeeCode": "EMP005",
     "employeeName": "Gold Smith",
     "checkInTime": "2026-06-03T09:02:00",
     "checkOutTime": "2026-06-03T18:10:00",
     "status": "Present"
   },
   {
-    "employeeCode": "EMP002",
+    "employeeCode": "EMP006",
     "employeeName": "Nick Jones",
     "checkInTime": "2026-05-021T13:15:00",
     "checkOutTime": null,
     "status": "Present"
   },
     {
-    "employeeCode": "EMP001",
-    "employeeName": "James Smith",
+    "employeeCode": "EMP007",
     "checkInTime": "2026-06-03T09:02:00",
     "checkOutTime": "2026-03-03T20:05:00",
     "status": "PresAbsent"
   },
   {
-    "employeeCode": "EMP002",
+    "employeeCode": "EMP008",
     "employeeName": "Sarah Khan",
     "checkInTime": "2026-06-03T09:15:00",
     "checkOutTime": null,
     "status": "Present"
   },
     {
-    "employeeCode": "EMP001",
+    "employeeCode": "EMP009",
     "employeeName": "Visvas Kumar",
     "checkInTime": "2026-06-03T09:02:00",
     "checkOutTime": "2026-06-03T18:05:00",
     "status": "Present"
   },
   {
-    "employeeCode": "EMP002",
+    "employeeCode": "EMP0010",
     "employeeName": "Jonny Mathew",
     "checkInTime": "2026-05-23T014:15:00",
     "checkOutTime": null,
