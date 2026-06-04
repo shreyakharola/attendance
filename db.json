@@ -41,12 +41,18 @@
     "checkOutTime": null,
     "status": "Present"
   },
-    {
-    "employeeCode": "EMP007",
-    "checkInTime": "2026-06-03T09:02:00",
-    "checkOutTime": "2026-03-03T20:05:00",
-    "status": "PresAbsent"
+  {
+  "id": 1,
+  "email": "john@example.com",
+  "age": 30,
+  "name": {
+    "first": "John",
+    "last": "Doe"
   },
+  "location": {
+    "city": "New York"
+  }
+},
   {
     "employeeCode": "EMP008",
     "employeeName": "Sarah Khan",
