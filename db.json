@@ -42,17 +42,12 @@
     "status": "Present"
   },
   {
-  "id": 1,
-  "email": "john@example.com",
-  "age": 30,
-  "name": {
-    "first": "John",
-    "last": "Doe"
+    "employeeCode": "EMP007",
+    "employeeName": "Nick nicolas",
+    "checkInTime": "2026-05-021T13:15:00",
+    "checkOutTime": null,
+    "status": "Present"
   },
-  "location": {
-    "city": "New York"
-  }
-},
   {
     "employeeCode": "EMP008",
     "employeeName": "Sarah Khan",
