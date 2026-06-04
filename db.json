@@ -1,37 +1,14 @@
-"posts":[
-  {
-    "employeeCode": "EMP001",
-    "employeeName": "John Smith",
-    "checkInTime": "2026-06-03T09:02:00",
-    "checkOutTime": "2026-06-03T18:05:00",
-    "status": "Present"
-  },
-  {
-    "employeeCode": "EMP002",
-    "employeeName": "Sarah Jones",
-    "checkInTime": "2026-06-03T09:15:00",
-    "checkOutTime": null,
-    "status": "Present"
-  },
-    {
-    "employeeCode": "EMP003",
-    "employeeName": "Shreya Smith",
-    "checkInTime": "2026-06-03T09:02:00",
-    "checkOutTime": "2026-06-03T18:05:00",
-    "status": "Absent"
-  },
-  {
-    "employeeCode": "EMP004",
-    "employeeName": "John Jones",
-    "checkInTime": "2026-06-04T10:15:00",
-    "checkOutTime": null,
-    "status": "Absent"
-  },
-    {
-    "employeeCode": "EMP005",
-    "employeeName": "Gold Smith",
-    "checkInTime": "2026-06-03T09:02:00",
-    "checkOutTime": "2026-06-03T18:10:00",
-    "status": "Present"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
